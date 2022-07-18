@@ -7,4 +7,4 @@ Adding sample.txt using git bash and vim editor to local repo
 
 => ADDED A NEW LINE USING THE REMOTE REPO
 
--> Adding in feature branch of local repo
+-> Deleting the last command from feature branch
