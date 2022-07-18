@@ -1,8 +1,7 @@
 Adding sample.txt using git bash and vim editor to local repo
 
 -> Adding another line in the file using the feature branch
--> New branch created on remote repo
--> Command after updating the file using remote repo to test for merge conflict
+-> New branch created on remote repo 
 
 
 => ADDED A NEW LINE USING THE REMOTE REPO
