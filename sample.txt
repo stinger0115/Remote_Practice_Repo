@@ -1,0 +1,1 @@
+Adding sample.txt using git bash and vim editor to local repo
